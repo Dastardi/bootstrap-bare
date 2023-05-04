@@ -1,1 +1,3 @@
-# A basic site for practicing bootstrap, html, css, etc.
+A website created for and by Luke Currier. 
+
+Uses Bootstrap and custom html/CSS.
